@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>MySpringMVC</servlet-name>
-        <servlet-class>com.huang.servlet.MyDispacherServlet</servlet-class>
+        <servlet-class>com.huang.core.MyDispacherServlet</servlet-class>
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>application.properties</param-value>
