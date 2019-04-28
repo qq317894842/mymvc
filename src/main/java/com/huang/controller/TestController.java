@@ -1,4 +1,4 @@
-package com.huang.core;
+package com.huang.controller;
 
 import com.huang.annotation.MyController;
 import com.huang.annotation.MyRequestMapping;
