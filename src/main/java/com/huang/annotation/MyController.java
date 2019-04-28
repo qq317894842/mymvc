@@ -7,7 +7,7 @@ import java.lang.annotation.*;
 @Documented
 public @interface MyController {
     /**
-     * 表示给controller注册别名
+     * 表示给controller注册别名。
      * @return
      */
     String value() default "";

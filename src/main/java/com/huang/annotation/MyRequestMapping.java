@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 @Documented
 public @interface MyRequestMapping {
     /**
-     * 表示访问该方法的url
+     * 表示访问该方法的url。
      * @return
      */
     String value() default "";
